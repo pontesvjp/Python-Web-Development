@@ -1,1 +1,7 @@
-Python primeira aplicação/SABOR-EXPRESS/.vscode/settings.json
+venv
+__pycache__
+*.pyc
+*.egginfo
+*.swp
+*.DS_Store
+Python primeira aplicação/OO-SABOR-EXPRESS/requirements.txt
